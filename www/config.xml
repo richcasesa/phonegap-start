@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.casesa.hello-galaxy"
         version   = "1.0.0">
-    <name>Hello Galaxy!</name>
+    <name>Hello Galaxy S3!</name>
 
     <description>
         Hello Galaxy sample application that responds to the deviceready event.
